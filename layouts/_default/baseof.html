@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     {{- partial "head.html" . -}}
-    <body>
+    <body class="black-bg" onload="changeBackground(5);>
         {{- partial "header.html" . -}}
         <div id="content">
         {{- block "main" . }}{{- end }}
