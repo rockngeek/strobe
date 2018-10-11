@@ -1,0 +1,12 @@
+name = "Strobe"
+license = "MIT"
+licenselink = "https://github.com/rockngeek/strobe/blob/master/LICENSE"
+description = "Hugo (gohugo.io) theme with colorful switching backgrounds for site maintenance mode."
+homepage = "https://github.com/rockngeek/strobe"
+tags = ["maintenance","responsive", "minimal", "minimalist", "landing page", "one page", "single page", "onepage", "minimalistic"]
+features = ["maintenance","responsive", "minimal"]
+min_version = "0.41"
+
+[author]
+  name = "Rock N' Geek"
+  homepage = "https://rockngeek.net"
